@@ -100,6 +100,12 @@ A SaaS platform that brings multiple Generative AI tools together, including Tex
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankitachowdhury02/ankitachowdhury02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
 ## 🐙 GitHub Stats
 
 [Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
@@ -122,8 +128,4 @@ A SaaS platform that brings multiple Generative AI tools together, including Tex
 
 **Let's build something amazing together! 🚀**
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankitachowdhury02/ankitachowdhury02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
