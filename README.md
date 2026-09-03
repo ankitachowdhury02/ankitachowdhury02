@@ -73,8 +73,8 @@ A real-time meeting platform with an integrated AI Agent that provides contextua
 **Tech Stack:**
 `Next.js` `TypeScript` `Drizzle ORM` `Neon DB` `Inngest` `tRPC` `OpenAI API` `Better Auth`
 
-🔗 **Live Demo:** [Add your live link here]
-💻 **Source Code:** [Add your GitHub repository link here]
+🔗 **Live Demo:** [https://meet-ai.app]
+💻 **Source Code:** [https://github.com/ankitachowdhury02/Meet-AI]
 
 ---
 
@@ -112,7 +112,7 @@ A SaaS platform that brings multiple Generative AI tools together, including Tex
 
 📧 Email: **[ankitachowdhury145@gmail.com](mailto:ankitachowdhury145@gmail.com)**
 
-💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ankita-chowdhury-45a9b9250?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 🐙 GitHub: [github.com/ankitachowdhury02](https://github.com/ankitachowdhury02)
 
