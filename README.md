@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ankita-developer.jpg" alt="Ankita Chowdhury - Software Developer" width="100%">
+  <img src="./ankita-developer.jpg" alt="Ankita Chowdhury - Software Developer" width="25%">
 </p>
 
 
